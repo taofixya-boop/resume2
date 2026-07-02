@@ -1,8 +1,5 @@
-{
+const config = {
   "rewrites": [
-    {
-      "source": "/(.*)",
-      "destination": "/"
-    }
+    { "source": "/(.*)", "destination": "/" }
   ]
-}
+};
